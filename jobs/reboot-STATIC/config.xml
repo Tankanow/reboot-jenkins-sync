@@ -6,7 +6,7 @@
   <properties>
     <se.diabol.jenkins.pipeline.PipelineProperty plugin="delivery-pipeline-plugin@0.8.9">
       <taskName>Static Analysis</taskName>
-      <stageName>Build</stageName>
+      <stageName>FT and Static Analysis</stageName>
     </se.diabol.jenkins.pipeline.PipelineProperty>
   </properties>
   <scm class="hudson.scm.NullSCM"/>
